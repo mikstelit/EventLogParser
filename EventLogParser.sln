@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLogParser", "EventLogParser\EventLogParser.csproj", "{C887ACFB-10B9-458F-B29C-2018B6EE8256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C887ACFB-10B9-458F-B29C-2018B6EE8256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C887ACFB-10B9-458F-B29C-2018B6EE8256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C887ACFB-10B9-458F-B29C-2018B6EE8256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C887ACFB-10B9-458F-B29C-2018B6EE8256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99008E20-55BC-4827-8EEF-D488382D3C0A}
+	EndGlobalSection
+EndGlobal

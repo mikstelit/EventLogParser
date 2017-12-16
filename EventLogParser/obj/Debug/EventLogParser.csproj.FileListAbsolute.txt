@@ -1,0 +1,7 @@
+C:\Users\mike.littlefield\source\repos\EventLogParser\EventLogParser\bin\Debug\EventLogParser.exe.config
+C:\Users\mike.littlefield\source\repos\EventLogParser\EventLogParser\bin\Debug\EventLogParser.exe
+C:\Users\mike.littlefield\source\repos\EventLogParser\EventLogParser\bin\Debug\EventLogParser.pdb
+C:\Users\mike.littlefield\source\repos\EventLogParser\EventLogParser\obj\Debug\EventLogParser.csprojResolveAssemblyReference.cache
+C:\Users\mike.littlefield\source\repos\EventLogParser\EventLogParser\obj\Debug\EventLogParser.csproj.CoreCompileInputs.cache
+C:\Users\mike.littlefield\source\repos\EventLogParser\EventLogParser\obj\Debug\EventLogParser.exe
+C:\Users\mike.littlefield\source\repos\EventLogParser\EventLogParser\obj\Debug\EventLogParser.pdb
